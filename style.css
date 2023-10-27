@@ -1,0 +1,71 @@
+.div1{
+    width: 1043px;
+    margin: auto;
+}
+h2{
+    color: black;
+    font-size: 25px;
+    font-weight: 700;
+    margin-top: 85px;
+    
+}
+table{
+    margin-top: 23px;
+    margin:auto;
+}
+th td{
+    font-size: 15px;
+}
+th {
+    font-weight: 700;
+}
+.th1{
+    text-align: center;
+    width: 72px;
+    height: 57px;
+}
+
+.th2{
+    text-align: left;
+     width: 444px;
+     height: 57px;
+     padding-left: 23px;
+ 
+    
+}
+.th3{
+    text-align: center;
+    width: 276px;
+    height: 57px;
+}
+
+
+.th4{
+    text-align: center;
+    width: 251px;
+    height: 57px;
+}
+.sveti1{
+    text-align: center;
+    font-weight: 700;
+}
+.sveti2{
+    text-align: left;
+    font-weight: 500;
+    padding: 23px;
+}
+.sveti3{
+    color:#f00;
+    text-align: center;
+    font-weight: 700;
+}
+.sveti4{
+    text-align: center;
+    font-weight: 700;
+}
+button{
+    width: 115px;
+    height: 36px;
+    background-color:#FFD43A ;
+    border:none
+}
